@@ -1,0 +1,6 @@
+{
+  "name": "Shashini Rubber Mills",
+  "description": "Official website for Shashini Rubber Mills - High-quality 3X-brown crepe rubber manufacturing, milling services (Rs. 40/kg), and daily production capacity in Hanwella, Sri Lanka with bilingual English and Sinhala support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
